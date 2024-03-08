@@ -1,1 +1,1 @@
-# chess-player-prediction
+# Final project for CS147
